@@ -29,4 +29,3 @@
 ###Exercise C
 ![Exercise C final Output](ExerciseC.gif)
 
-NOt DONE NEED PIC FROM EXERCISE B AND C
